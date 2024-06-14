@@ -47,8 +47,6 @@ This Python script implements a simple UDP chat application using socket program
 - The random module is used to simulate packet loss by introducing randomness in acknowledgment processing.
 - The script assumes local testing with a predefined server IP address.
 
-------
-
 ## Author
 
 - Arthur Vicente
