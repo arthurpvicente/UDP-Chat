@@ -46,4 +46,9 @@ This Python script implements a simple UDP chat application using socket program
 - The script uses UDP (User Datagram Protocol) for communication, which is connectionless and unreliable. Hence, acknowledgments and retransmissions are implemented to handle packet loss.
 - The random module is used to simulate packet loss by introducing randomness in acknowledgment processing.
 - The script assumes local testing with a predefined server IP address.
-#
+
+------
+
+## Author
+
+- Arthur Vicente
